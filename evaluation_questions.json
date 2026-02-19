@@ -1,0 +1,63 @@
+[
+  {
+    "question": "What is GRN?",
+    "expected_doc": "GRN-2026-001-v1"
+  },
+  {
+    "question": "What information does GRN capture?",
+    "expected_doc": "GRN-2026-001-v1"
+  },
+  {
+    "question": "What is MBR?",
+    "expected_doc": "MBR-TEMPLATE-v1"
+  },
+  {
+    "question": "What does MBR include?",
+    "expected_doc": "MBR-TEMPLATE-v1"
+  },
+  {
+    "question": "What is BMR used for?",
+    "expected_doc": "BMR-PRD-001-v1"
+  },
+  {
+    "question": "What is recorded in BMR manufacturing steps?",
+    "expected_doc": "BMR-PRD-001-v1"
+  },
+  {
+    "question": "Which SOP governs compression machine setup?",
+    "expected_doc": "SOP-PRD-014-v1"
+  },
+  {
+    "question": "What does SOP-PRD-015 describe?",
+    "expected_doc": "SOP-PRD-015-v1"
+  },
+  {
+    "question": "What is a deviation record?",
+    "expected_doc": "DEV-2026-001-v1"
+  },
+  {
+    "question": "What does CAPA address?",
+    "expected_doc": "CAPA-2026-001-v1"
+  },
+  {
+    "question": "What is stock movement record?",
+    "expected_doc": "MOVE-2026-002-v1"
+  },
+  {
+    "question": "What details are included in stock dispatch?",
+    "expected_doc": "MOVE-2026-002-v1"
+  },
+  {
+    "question": "What does IPC stand for?",
+    "expected_doc": "MBR-TEMPLATE-v1"
+  },
+  {
+    "question": "What is quantum mechanics?",
+    "expected_doc": null
+  },
+  {
+    "question": "Explain black holes in space.",
+    "expected_doc": null
+  }
+]
+
